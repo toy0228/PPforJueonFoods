@@ -6,3 +6,7 @@ This app is made by a 10 Year old boy, so It does not have anywhere to store you
 # Data Collected
 
 The Data Collected are your Location for Tracking where you are for where is the best locations.
+
+#Contact
+
+Contact us at jueonmusic@gmail.com for any Bugs & Issues!
